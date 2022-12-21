@@ -8,3 +8,5 @@ def generate_piechart():
     ax.pie(values, labels=labels)
     plt.savefig("pie.png")
     plt.close()
+
+     
