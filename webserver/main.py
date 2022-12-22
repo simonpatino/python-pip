@@ -7,9 +7,9 @@ app = FastAPI()
 def get_list():
     return [1,2,3,4]
 
-@app.get("/")
+@app.get("/contact")
 def get_list():
-    return {name: "Platzi"}
+    return {"name": "Platzi"}
 
 def run():
     store.get_categories()
