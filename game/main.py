@@ -40,6 +40,6 @@ if (start == "empezar") :
         print("acaso quieres salirte de tu papel??")
                       
 else: 
-      print("Te crees muy gracioso , ¿ehg?")
+      print("Te crees muy gracioso, vuelve a intentarlo mejor...  , xd . te mamaste")
 
     
